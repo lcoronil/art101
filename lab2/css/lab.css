@@ -27,10 +27,9 @@ h3{
 
 p{
   font-family: "comic sans";
-  width: 50%
   text-indent: 20px;
   margin-left: 10px;
-
+  line-height: 1.5;
 }
 
 #content {
