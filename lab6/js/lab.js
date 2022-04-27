@@ -6,7 +6,7 @@
 
 
 // Define Variables
-myTransport = ["bus", "car", "walk"];
+myTransport = ["bus" , "car" , "walk" ];
 
 myMainRide = {
   make : "Honda",
