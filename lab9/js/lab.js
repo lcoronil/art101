@@ -16,3 +16,6 @@ new2El = document.createElement("h");
 new2El.innerHTML = "What's up";
 
 outputEl.appendChild(new1El, new2El);
+
+new1El.style.fontSize = "20pt";
+new2El.style.dontSize = "20pt";
