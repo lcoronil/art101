@@ -6,7 +6,7 @@ h1, h2, h3 {
   margin-left: 20px
 }
 
-.output {
+/* .output {
   color: #a78682;
   font-family: "courier new";
   font-size: 105%;
@@ -16,7 +16,7 @@ h1, h2, h3 {
   margin-right: 20px;
   max-width: 700px;
   margin-left: 100px;
-}
+} */
 
 
 #content {
@@ -27,6 +27,19 @@ h1, h2, h3 {
   margin: 10px;
   border: double 20px #51344d;
   font-size: 20px;
+}
+
+#output {
+  color: #a78682;
+  font-family: "courier new";
+  font-size: 105%;
+  text-indent: 30px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: 700px;
+  margin-left: 100px;
+
 }
 
 
