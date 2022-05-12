@@ -1,7 +1,7 @@
 # Lab Template
 File tempate for basic HTML, CSS, and JavaScript classes
 
-#Link to Page
+Link to Page
 https://lcoronil.github.io/art101/
 
 ## Basic Structure
